@@ -30,14 +30,14 @@
 // Info.plist: NSCameraUsageDescription
 // dart: PermissionGroup.camera
 #ifndef PERMISSION_CAMERA
-    #define PERMISSION_CAMERA 0
+    #define PERMISSION_CAMERA 1
 #endif
 
 // ios: PermissionGroupMicrophone
 // Info.plist: NSMicrophoneUsageDescription
 // dart: PermissionGroup.microphone
 #ifndef PERMISSION_MICROPHONE
-    #define PERMISSION_MICROPHONE 0
+    #define PERMISSION_MICROPHONE 1
 #endif
 
 // ios: PermissionGroupSpeech
