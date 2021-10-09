@@ -51,7 +51,7 @@
 // Info.plist: NSPhotoLibraryUsageDescription
 // dart: PermissionGroup.photos
 #ifndef PERMISSION_PHOTOS
-    #define PERMISSION_PHOTOS 0
+    #define PERMISSION_PHOTOS 1
 #endif
 
 // ios: PermissionGroupPhotosAddOnly
